@@ -46,6 +46,7 @@ Stack:
 # 💻 Portfolio
 
 1. Projeto de Salt Proxy em Docker: [Salt-Proxy em docker](https://github.com/antonytayron/salt-proxy-docker).
+2. Monitor de servidores de Minecraft em Python [MC-server-status](https://github.com/antonytayron/mc-server-status).
 
 
 # :iphone: Contato
