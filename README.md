@@ -47,6 +47,7 @@ Stack:
 
 1. Projeto de Salt Proxy em Docker: [Salt-Proxy em docker](https://github.com/antonytayron/salt-proxy-docker).
 2. Monitor de servidores de Minecraft em Python [MC-server-status](https://github.com/antonytayron/mc-server-status).
+3. Minecraft Server Helm Chart [mc-server-helm](https://github.com/antonytayron/mc-server-helm)
 
 
 # :iphone: Contato
